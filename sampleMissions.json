@@ -1,0 +1,297 @@
+[
+  {
+    "id": "daily-1",
+    "title": "Use a Reusable Water Bottle",
+    "description": "Carry and refill a reusable water bottle instead of buying plastic bottled water.",
+    "steps": [
+      {
+        "id": "step-daily-1-1",
+        "description": "Find your reusable water bottle.",
+        "completed": true
+      },
+      {
+        "id": "step-daily-1-2",
+        "description": "Fill it with water before leaving home.",
+        "completed": true
+      },
+      {
+        "id": "step-daily-1-3",
+        "description": "Refill it throughout the day.",
+        "completed": false
+      }
+    ],
+    "sdg": {
+      "id": 6,
+      "title": "Clean Water and Sanitation",
+      "colorCode": "#46B8DA",
+      "iconUrl": "https://developers.google.com/static/profile/sdg/6.svg"
+    },
+    "type": "daily",
+    "completed": false,
+    "impact": "Reduces plastic waste and conserves water."
+  },
+  {
+    "id": "daily-2",
+    "title": "Eat a Plant-Based Meal",
+    "description": "Replace one meal today with a vegetarian or vegan option.",
+    "steps": [
+      {
+        "id": "step-daily-2-1",
+        "description": "Choose a plant-based recipe or restaurant.",
+        "completed": true
+      },
+      {
+        "id": "step-daily-2-2",
+        "description": "Prepare or order your meal.",
+        "completed": true
+      },
+      {
+        "id": "step-daily-2-3",
+        "description": "Enjoy your plant-based meal!",
+        "completed": true
+      }
+    ],
+    "sdg": {
+      "id": 2,
+      "title": "Zero Hunger",
+      "colorCode": "#DDA63A",
+      "iconUrl": "https://developers.google.com/static/profile/sdg/2.svg"
+    },
+    "type": "daily",
+    "completed": true,
+    "completedAt": "2023-10-27T10:00:00Z"
+  },
+  {
+    "id": "daily-3",
+    "title": "Walk or Bike for Short Trips",
+    "description": "For nearby destinations, walk or bike instead of using a car.",
+    "steps": [
+      {
+        "id": "step-daily-3-1",
+        "description": "Identify a short trip you need to make.",
+        "completed": false
+      },
+      {
+        "id": "step-daily-3-2",
+        "description": "Choose to walk or bike.",
+        "completed": false
+      },
+      {
+        "id": "step-daily-3-3",
+        "description": "Complete the trip.",
+        "completed": false
+      }
+    ],
+    "sdg": {
+      "id": 11,
+      "title": "Sustainable Cities and Communities",
+      "colorCode": "#FD9D24",
+      "iconUrl": "https://developers.google.com/static/profile/sdg/11.svg"
+    },
+    "type": "daily",
+    "completed": false
+  },
+  {
+    "id": "daily-4",
+    "title": "Unplug Electronics When Not In Use",
+    "description": "Save energy by unplugging chargers and electronics when they're not in use.",
+    "steps": [
+      {
+        "id": "step-daily-4-1",
+        "description": "Identify electronics that are not in use.",
+        "completed": true
+      },
+      {
+        "id": "step-daily-4-2",
+        "description": "Unplug them.",
+        "completed": true
+      }
+    ],
+    "sdg": {
+      "id": 7,
+      "title": "Affordable and Clean Energy",
+      "colorCode": "#FCC30B",
+      "iconUrl": "https://developers.google.com/static/profile/sdg/7.svg"
+    },
+    "type": "daily",
+    "completed": true,
+    "completedAt": "2023-10-27T11:30:00Z"
+  },
+  {
+    "id": "daily-5",
+    "title": "Practice Mindful Consumption",
+    "description": "Before buying something, consider if you truly need it and its environmental impact.",
+    "steps": [
+      {
+        "id": "step-daily-5-1",
+        "description": "Think about a purchase you are considering.",
+        "completed": false
+      },
+      {
+        "id": "step-daily-5-2",
+        "description": "Evaluate your need for the item.",
+        "completed": false
+      },
+      {
+        "id": "step-daily-5-3",
+        "description": "Consider its environmental footprint.",
+        "completed": false
+      }
+    ],
+    "sdg": {
+      "id": 12,
+      "title": "Responsible Consumption and Production",
+      "colorCode": "#BF8B2E",
+      "iconUrl": "https://developers.google.com/static/profile/sdg/12.svg"
+    },
+    "type": "daily",
+    "completed": false
+  },
+  {
+    "id": "weekly-1",
+    "title": "Volunteer for a Local Cause",
+    "description": "Dedicate a few hours this week to volunteering for a community project or organization.",
+    "steps": [
+      {
+        "id": "step-weekly-1-1",
+        "description": "Find a local cause you care about.",
+        "completed": false
+      },
+      {
+        "id": "step-weekly-1-2",
+        "description": "Sign up to volunteer.",
+        "completed": false
+      },
+      {
+        "id": "step-weekly-1-3",
+        "description": "Complete your volunteer hours.",
+        "completed": false
+      }
+    ],
+    "sdg": {
+      "id": 17,
+      "title": "Partnerships for the Goals",
+      "colorCode": "#19486A",
+      "iconUrl": "https://developers.google.com/static/profile/sdg/17.svg"
+    },
+    "type": "weekly",
+    "completed": false
+  },
+  {
+    "id": "weekly-2",
+    "title": "Conduct a Home Energy Audit",
+    "description": "Identify areas in your home where you can improve energy efficiency.",
+    "steps": [
+      {
+        "id": "step-weekly-2-1",
+        "description": "Inspect your home for drafts and leaks.",
+        "completed": true
+      },
+      {
+        "id": "step-weekly-2-2",
+        "description": "Check insulation levels.",
+        "completed": true
+      },
+      {
+        "id": "step-weekly-2-3",
+        "description": "Consider energy-efficient appliance upgrades.",
+        "completed": true
+      }
+    ],
+    "sdg": {
+      "id": 7,
+      "title": "Affordable and Clean Energy",
+      "colorCode": "#FCC30B",
+      "iconUrl": "https://developers.google.com/static/profile/sdg/7.svg"
+    },
+    "type": "weekly",
+    "completed": true,
+    "completedAt": "2023-10-25T14:00:00Z"
+  },
+  {
+    "id": "weekly-3",
+    "title": "Support Local Businesses",
+    "description": "Choose to shop at local stores and support your community's economy.",
+    "steps": [
+      {
+        "id": "step-weekly-3-1",
+        "description": "Identify local businesses you can support.",
+        "completed": false
+      },
+      {
+        "id": "step-weekly-3-2",
+        "description": "Make a purchase at a local business.",
+        "completed": false
+      }
+    ],
+    "sdg": {
+      "id": 8,
+      "title": "Decent Work and Economic Growth",
+      "colorCode": "#A21942",
+      "iconUrl": "https://developers.google.com/static/profile/sdg/8.svg"
+    },
+    "type": "weekly",
+    "completed": false
+  },
+  {
+    "id": "weekly-4",
+    "title": "Learn About a New SDG",
+    "description": "Spend time researching one of the SDGs you know less about.",
+    "steps": [
+      {
+        "id": "step-weekly-4-1",
+        "description": "Choose an SDG to research.",
+        "completed": true
+      },
+      {
+        "id": "step-weekly-4-2",
+        "description": "Read articles or watch videos about it.",
+        "completed": true
+      },
+      {
+        "id": "step-weekly-4-3",
+        "description": "Reflect on what you learned.",
+        "completed": true
+      }
+    ],
+    "sdg": {
+      "id": 4,
+      "title": "Quality Education",
+      "colorCode": "#C5192D",
+      "iconUrl": "https://developers.google.com/static/profile/sdg/4.svg"
+    },
+    "type": "weekly",
+    "completed": true,
+    "completedAt": "2023-10-26T09:00:00Z"
+  },
+  {
+    "id": "weekly-5",
+    "title": "Reduce Food Waste",
+    "description": "Plan your meals and store food properly to minimize waste.",
+    "steps": [
+      {
+        "id": "step-weekly-5-1",
+        "description": "Plan your meals for the week.",
+        "completed": false
+      },
+      {
+        "id": "step-weekly-5-2",
+        "description": "Make a shopping list and stick to it.",
+        "completed": false
+      },
+      {
+        "id": "step-weekly-5-3",
+        "description": "Store leftovers properly.",
+        "completed": false
+      }
+    ],
+    "sdg": {
+      "id": 12,
+      "title": "Responsible Consumption and Production",
+      "colorCode": "#BF8B2E",
+      "iconUrl": "https://developers.google.com/static/profile/sdg/12.svg"
+    },
+    "type": "weekly",
+    "completed": false
+  }
+]
